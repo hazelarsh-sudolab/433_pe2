@@ -1,0 +1,106 @@
+Name: ANAS FAIRUS BIN MOHAMAD ARSHAD | Matric No: 22303498
+
+Resistor 1:
+  Color Band Code    : Green Blue S G
+  Nominal Resistance : 0.56 ohm
+  Tolerance          : 5 %
+  Minimum Resistance : 0.532 ohm
+  Maximum Resistance : 0.588 ohm
+
+Resistor 2:
+  Color Band Code    : Red Violet G S
+  Nominal Resistance : 2.7 ohm
+  Tolerance          : 10 %
+  Minimum Resistance : 2.43 ohm
+  Maximum Resistance : 2.97 ohm
+
+Resistor 3:
+  Color Band Code    : Brown Gray Black Brown
+  Nominal Resistance : 18 ohm
+  Tolerance          : 1 %
+  Minimum Resistance : 17.82 ohm
+  Maximum Resistance : 18.18 ohm
+
+Resistor 4:
+  Color Band Code    : Violet Green Black Red
+  Nominal Resistance : 75 ohm
+  Tolerance          : 2 %
+  Minimum Resistance : 73.5 ohm
+  Maximum Resistance : 76.5 ohm
+
+Resistor 5:
+  Color Band Code    : Brown Green Brown Gold
+  Nominal Resistance : 150 ohm
+  Tolerance          : 5 %
+  Minimum Resistance : 142.5 ohm
+  Maximum Resistance : 157.5 ohm
+
+Resistor 6:
+  Color Band Code    : Blue Red Brown S
+  Nominal Resistance : 620 ohm
+  Tolerance          : 10 %
+  Minimum Resistance : 558 ohm
+  Maximum Resistance : 682 ohm
+
+Resistor 7:
+  Color Band Code    : Orange White Red Red
+  Nominal Resistance : 3900 ohm
+  Tolerance          : 2 %
+  Minimum Resistance : 3822 ohm
+  Maximum Resistance : 3978 ohm
+
+Resistor 8:
+  Color Band Code    : Grey Red Red G
+  Nominal Resistance : 8200 ohm
+  Tolerance          : 5 %
+  Minimum Resistance : 7790 ohm
+  Maximum Resistance : 8610 ohm
+
+Resistor 9:
+  Color Band Code    : Red Yellow Orange Brown
+  Nominal Resistance : 24000 ohm
+  Tolerance          : 1 %
+  Minimum Resistance : 23760 ohm
+  Maximum Resistance : 24240 ohm
+
+Resistor 10:
+  Color Band Code    : Green Brown Orange G
+  Nominal Resistance : 51000 ohm
+  Tolerance          : 5 %
+  Minimum Resistance : 48450 ohm
+  Maximum Resistance : 53550 ohm
+
+Resistor 11:
+  Color Band Code    : White Brown Orange S
+  Nominal Resistance : 91000 ohm
+  Tolerance          : 10 %
+  Minimum Resistance : 81900 ohm
+  Maximum Resistance : 100100 ohm
+
+Resistor 12:
+  Color Band Code    : Orange Blue Yellow Red
+  Nominal Resistance : 360000 ohm
+  Tolerance          : 2 %
+  Minimum Resistance : 352800 ohm
+  Maximum Resistance : 367200 ohm
+
+Resistor 13:
+  Color Band Code    : Brown Red Green G
+  Nominal Resistance : 1.2e+06 ohm
+  Tolerance          : 5 %
+  Minimum Resistance : 1.14e+06 ohm
+  Maximum Resistance : 1.26e+06 ohm
+
+Resistor 14:
+  Color Band Code    : Yellow Orange Green Brown
+  Nominal Resistance : 4.3e+06 ohm
+  Tolerance          : 1 %
+  Minimum Resistance : 4.257e+06 ohm
+  Maximum Resistance : 4.343e+06 ohm
+
+Resistor 15:
+  Color Band Code    : Blue Gray Green G
+  Nominal Resistance : 6.8e+06 ohm
+  Tolerance          : 5 %
+  Minimum Resistance : 6.46e+06 ohm
+  Maximum Resistance : 7.14e+06 ohm
